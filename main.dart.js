@@ -33093,7 +33093,7 @@ $0(){var s,r=this.a
 if(r.d==="")return
 s=A.Tp(new A.a38(r),null,t.z)
 A.o3(this.b).iY(s)
-A.a63(r.d+" has ordered a "+r.a.c+".",$.ap5)},
+A.a63("Hi, Cleo\u963f\u59e8, it's "+r.d+"! I'd like one "+r.a.c+", please!",$.ap5)},
 $S:0}
 A.a38.prototype={
 $1(a){var s=this.a
